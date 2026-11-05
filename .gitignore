@@ -15,13 +15,17 @@ __pycache__/
 htmlcov/
 coverage.xml
 
+# macOS metadata
+__MACOSX/
+.DS_Store
+
 # Archives
 custom-stack.zip
+*.zip
 
 # IDEs & System files
 .idea/
 .vscode/
 *.swp
 *~
-.DS_Store
 Thumbs.db

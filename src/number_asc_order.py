@@ -1,4 +1,4 @@
-from src.custom_stack import CustomStack, StackEmptyException
+from src.custom_stack_class import CustomStack, StackEmptyException
 
 
 class NumberAscOrder:
