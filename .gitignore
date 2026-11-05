@@ -1,0 +1,27 @@
+# Virtual environments
+venv/
+.venv/
+ENV/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Coverage reports
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# Archives
+custom-stack.zip
+
+# IDEs & System files
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
+Thumbs.db
